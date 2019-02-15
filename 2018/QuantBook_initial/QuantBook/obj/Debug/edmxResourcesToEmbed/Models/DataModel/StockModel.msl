@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="MyDbModelStoreContainer" CdmEntityContainer="MyDbEntities">
+    <EntitySetMapping Name="Prices">
+      <EntityTypeMapping TypeName="MyDbModel.Price">
+        <MappingFragment StoreEntitySet="Price">
+          <ScalarProperty Name="PriceID" ColumnName="PriceID" />
+          <ScalarProperty Name="SymbolID" ColumnName="SymbolID" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="PriceOpen" ColumnName="PriceOpen" />
+          <ScalarProperty Name="PriceHigh" ColumnName="PriceHigh" />
+          <ScalarProperty Name="PriceLow" ColumnName="PriceLow" />
+          <ScalarProperty Name="PriceClose" ColumnName="PriceClose" />
+          <ScalarProperty Name="PriceAdj" ColumnName="PriceAdj" />
+          <ScalarProperty Name="Volume" ColumnName="Volume" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Symbols">
+      <EntityTypeMapping TypeName="MyDbModel.Symbol">
+        <MappingFragment StoreEntitySet="Symbol">
+          <ScalarProperty Name="SymbolID" ColumnName="SymbolID" />
+          <ScalarProperty Name="Ticker" ColumnName="Ticker" />
+          <ScalarProperty Name="Region" ColumnName="Region" />
+          <ScalarProperty Name="Sector" ColumnName="Sector" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,16 @@
+<#@ Template Language="C#" HostSpecific="True" Inherits="DynamicTransform" #>
+<#@ Output Extension="cs" #>
+using Caliburn.Micro;
+
+namespace <#= Model.Namespace #>
+{
+    public class <#= Model.NameOfClass #>  : PropertyChangedBase
+    {
+        private string _someValue;
+        public string SomeValue
+        {
+            get { return _someValue; }
+            set { _someValue = value; NotifyOfPropertyChange(() => SomeValue); }
+        }
+    }
+}

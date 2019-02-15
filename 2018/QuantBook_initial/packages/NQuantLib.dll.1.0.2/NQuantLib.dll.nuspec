@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+    <metadata>
+        <id>NQuantLib.dll</id>
+        <version>1.0.2</version>
+        <title>NQuantLib.dll</title>
+        <authors>QuantLib (packaged by agaragar)</authors>
+        <licenseUrl>http://quantlib.org/license.shtml</licenseUrl>
+        <projectUrl>http://quantlib.org</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Managed bindings for the QuantLib project.</description>
+        <summary>QuantLib is a free/open-source library for quantitative finance.</summary>
+        <releaseNotes>Targeting the QuantLib version 1.5.</releaseNotes>
+        <dependencies>
+            <dependency id="Baseclass.Contrib.Nuget.Output" />
+        </dependencies>
+    </metadata>
+</package>

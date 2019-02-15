@@ -1,0 +1,11 @@
+C:\Users\Dell-PC\source\repos\QuantBook_v0\FirstWPFProgramView\obj\Debug\MainWindow.baml
+C:\Users\Dell-PC\source\repos\QuantBook_v0\FirstWPFProgramView\obj\Debug\MainWindow.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook_v0\FirstWPFProgramView\obj\Debug\App.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook_v0\FirstWPFProgramView\obj\Debug\FirstWPFProgramView_MarkupCompile.cache
+C:\Users\Dell-PC\source\repos\QuantBook_v0\FirstWPFProgramView\obj\Debug\FirstWPFProgramView.g.resources
+C:\Users\Dell-PC\source\repos\QuantBook_v0\FirstWPFProgramView\obj\Debug\FirstWPFProgramView.Properties.Resources.resources
+C:\Users\Dell-PC\source\repos\QuantBook_v0\FirstWPFProgramView\obj\Debug\FirstWPFProgramView.csproj.GenerateResource.cache
+C:\Users\Dell-PC\source\repos\QuantBook_v0\FirstWPFProgramView\obj\Debug\FirstWPFProgramView.csproj.CoreCompileInputs.cache
+C:\Users\Dell-PC\source\repos\QuantBook_v0\FirstWPFProgramView\obj\Debug\FirstWPFProgramView.baml
+C:\Users\Dell-PC\source\repos\QuantBook_v0\FirstWPFProgramView\obj\Debug\FirstWPFProgramView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook_v0\FirstWPFProgramView\obj\Debug\FirstWPFProgramView.csprojAssemblyReference.cache

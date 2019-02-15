@@ -1,0 +1,61 @@
+﻿<UserControl x:Class="QuantBook.Ch05.My3DSpecializedView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Chart3DControl;assembly=Chart3DControl"
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="500">
+    <Grid Margin="10">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <StackPanel>
+            <TextBlock Text="3D Specialized Chart Type:" Margin="0 20 0 0"/>
+            <ComboBox x:Name="Chart3DSType" Width="150" Margin="0 5 0 0" 
+                      HorizontalAlignment="Left"/>
+            <TextBlock Text="Choose Colormap Type:" Margin="0 20 0 0"/>
+            <ComboBox x:Name="Colormap" Width="150" Margin="0 5 0 0" 
+                      HorizontalAlignment="Left"/>
+            <CheckBox x:Name="IsColormap" Content="IsColormap?" Margin="0 20 0 0"/>
+            <CheckBox x:Name="IsInterp" Content="IsInterp?" Margin="0 10 0 0"/>
+            <CheckBox x:Name="IsColorbar" Content="IsColorbar?" Margin="0 10 0 0"/>
+            <CheckBox x:Name="IsLineColorMatch" Content="IsLineColorMatch?" 
+                      Margin="0 10 0 0"/>
+            <GroupBox Header="X-Y Color" Margin="0 20 0 0">
+                <StackPanel Margin="0 5 0 5">
+                    <TextBlock Text="X-Y Color Chart Type:"/>
+                    <ComboBox x:Name="XYColorType" Width="150" Margin="0 5 0 0" 
+                              HorizontalAlignment="Left"/>
+                </StackPanel>
+            </GroupBox>
+            <GroupBox Header="Contour" Margin="0 20 0 0">
+                <StackPanel Margin="0 5 0 5">
+                    <TextBlock Text="Contour Chart Type:"/>
+                    <ComboBox x:Name="ContourType" Width="150" Margin="0 5 0 0" 
+                              HorizontalAlignment="Left"/>
+                </StackPanel>
+            </GroupBox>
+            <Button x:Name="AddChart" Content="Start Chart" Width="100" 
+                    Margin="0 20 0 0" HorizontalAlignment="Left"/>
+        </StackPanel>
+
+        <local:Chart3DS Grid.Column="1" DataCollection="{Binding DataCollection}"
+                        Xmin="-3" Xmax="3" XTick="1" Ymin="-3" Ymax="3" YTick="1"
+                        Zmin="-8" Zmax="8" ZTick="4" XLabel="X" YLabel="Y" 
+                        ZLabel="Z" GridlinePattern="Dot"  GridlineColor="Green"
+                        GridLineThickness="1" Elevation="30" Azimuth="-37" 
+                        Chart3DSType="{Binding SelectedChart3DSType}" 
+                        ColormapType="{Binding SelectedColormap}" 
+                        NumberInterp="3" IsHiddenLine="False" NumberContours="15"
+                        IsColormap="{Binding ElementName=IsColormap, 
+                        Path=IsChecked}" 
+                        IsInterp="{Binding ElementName=IsInterp, Path=IsChecked}"
+                        IsColorbar="{Binding ElementName=IsColorbar,
+                        Path=IsChecked}"
+                        IsLineColorMatch="{Binding ElementName=IsLineColorMatch,
+                        Path=IsChecked}"/>
+    </Grid>
+</UserControl>
+

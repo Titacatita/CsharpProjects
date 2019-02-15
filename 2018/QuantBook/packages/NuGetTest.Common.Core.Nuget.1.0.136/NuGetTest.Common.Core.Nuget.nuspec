@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>NuGetTest.Common.Core.Nuget</id>
+    <version>1.0.136</version>
+    <title>NuGetTest.Common.Core.Nuget</title>
+    <authors>bbelanger</authors>
+    <owners>bbelanger</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>NuGetTest.Common.Core.Nuget</description>
+    <summary>NuGetTest.Common.Core.Nuget</summary>
+    <copyright>Copyright © bbelanger</copyright>
+    <tags>NuGetTest.Common.Core.Nuget</tags>
+  </metadata>
+</package>

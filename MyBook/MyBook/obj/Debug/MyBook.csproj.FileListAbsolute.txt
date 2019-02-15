@@ -1,0 +1,14 @@
+C:\Users\Dell-PC\source\repos\MyBook\MyBook\bin\Debug\MyBook.exe.config
+C:\Users\Dell-PC\source\repos\MyBook\MyBook\bin\Debug\MyBook.exe
+C:\Users\Dell-PC\source\repos\MyBook\MyBook\bin\Debug\MyBook.pdb
+C:\Users\Dell-PC\source\repos\MyBook\MyBook\obj\Debug\MyBook.csprojAssemblyReference.cache
+C:\Users\Dell-PC\source\repos\MyBook\MyBook\obj\Debug\MainView.g.cs
+C:\Users\Dell-PC\source\repos\MyBook\MyBook\obj\Debug\App.g.cs
+C:\Users\Dell-PC\source\repos\MyBook\MyBook\obj\Debug\MyBook_MarkupCompile.cache
+C:\Users\Dell-PC\source\repos\MyBook\MyBook\obj\Debug\MainView.baml
+C:\Users\Dell-PC\source\repos\MyBook\MyBook\obj\Debug\MyBook.g.resources
+C:\Users\Dell-PC\source\repos\MyBook\MyBook\obj\Debug\MyBook.Properties.Resources.resources
+C:\Users\Dell-PC\source\repos\MyBook\MyBook\obj\Debug\MyBook.csproj.GenerateResource.cache
+C:\Users\Dell-PC\source\repos\MyBook\MyBook\obj\Debug\MyBook.csproj.CoreCompileInputs.cache
+C:\Users\Dell-PC\source\repos\MyBook\MyBook\obj\Debug\MyBook.exe
+C:\Users\Dell-PC\source\repos\MyBook\MyBook\obj\Debug\MyBook.pdb

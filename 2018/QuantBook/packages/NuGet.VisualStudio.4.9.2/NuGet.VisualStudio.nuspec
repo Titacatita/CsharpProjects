@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>NuGet.VisualStudio</id>
+    <version>4.9.2+428327cf66ee71cdb0e05a8aaa6cf6d043b9c932</version>
+    <authors>Microsoft</authors>
+    <owners>Microsoft</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://aka.ms/nugetlicense</licenseUrl>
+    <projectUrl>https://aka.ms/nugetprj</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/NuGet/Media/master/Images/MainLogo/256x256/nuget_256.png</iconUrl>
+    <description>APIs for invoking NuGet services in Visual Studio.</description>
+    <copyright>© Microsoft Corporation. All rights reserved.</copyright>
+    <tags>nuget</tags>
+    <serviceable>true</serviceable>
+    <repository type="git" url="https://github.com/NuGet/NuGet.Client" />
+    <dependencies>
+      <group targetFramework=".NETFramework4.6">
+        <dependency id="EnvDTE80" version="8.0.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.VisualStudio.Shell.Interop.12.0" version="12.0.30110" exclude="Build,Analyzers" />
+        <dependency id="VSSDK.TemplateWizardInterface" version="12.0.4" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="System.ComponentModel.Composition" targetFramework=".NETFramework4.6" />
+    </frameworkAssemblies>
+  </metadata>
+</package>

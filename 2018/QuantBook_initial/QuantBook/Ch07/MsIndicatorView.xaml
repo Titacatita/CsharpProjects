@@ -1,0 +1,68 @@
+﻿<UserControl x:Class="QuantBook.Ch07.MsIndicatorView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:cal="http://www.caliburnproject.org"
+             xmlns:local="clr-namespace:QuantBook.Models.ChartModel"
+             mc:Ignorable="d" 
+             d:DesignHeight="500" d:DesignWidth="1000">
+    <Grid Margin="10">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200"/>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="4*"/>
+        </Grid.ColumnDefinitions>
+        <StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="0 10 0 0">
+                <TextBlock Text="Ticker:" Width="70" TextAlignment="Right"/>
+                <TextBox x:Name="Ticker" Width="100" Margin="5 0 0 0"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="0 10 0 0">
+                <TextBlock Text="Start Date:" Width="70" TextAlignment="Right"/>
+                <TextBox x:Name="StartDate" Width="100" Margin="5 0 0 0"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="0 10 0 0">
+                <TextBlock Text="End Date:" Width="70" TextAlignment="Right"/>
+                <TextBox x:Name="EndDate" Width="100" Margin="5 0 0 0"/>
+            </StackPanel>
+            <Button x:Name="GetData" Content="Get Data" Width="120" Margin="0 10 0 0"/>
+            
+            <TextBlock Text="Financial Formula:" Margin="0 50 0 0"/>
+            <ComboBox x:Name="FinancialFormula" Width="185" Margin="0 2 0 0" HorizontalAlignment="Left" cal:Message.Attach="[Event SelectionChanged]=[Action FormulaChanged]"/>
+            <StackPanel Orientation="Horizontal" Margin="0 10 0 0">
+                <TextBlock Text="Period1:" Width="70" TextAlignment="Right"/>
+                <TextBox x:Name="Period1" Width="100" Margin="5 0 0 0"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="0 10 0 0">
+                <TextBlock Text="Period2:" Width="70" TextAlignment="Right"/>
+                <TextBox x:Name="Period2" Width="100" Margin="5 0 0 0"/>
+            </StackPanel>
+            <Button x:Name="PlotData" Content="Plot Data" Width="120" Margin="0 10 0 0"/>
+
+            <TextBlock Text="Export File:" Margin="0 50 0 0"/>
+            <TextBox Width="185" Margin="0 2 0 0" Text="{Binding ExportFile}" HorizontalAlignment="Left"/>
+            <Button x:Name="Export" Content="Export" Width="120" Margin="0 10 0 0"/>
+        </StackPanel>
+        <Grid Grid.Column="1" Margin="0 0 10 0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="20"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <TextBlock Text="Stock Data:"/>
+            <DataGrid x:Name="StockPrices" ColumnWidth="*" CanUserAddRows="False" Grid.Row="1" FontSize="10" SelectionUnit="Cell"/>
+        </Grid>
+
+        <Grid Grid.Column="2" Margin="0 0 10 0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="20"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <TextBlock Text="Indicator Results:"/>
+            <DataGrid ColumnWidth="*" CanUserAddRows="False" Grid.Row="2" FontSize="10" ItemsSource="{Binding OutputTable}" SelectionUnit="Cell"/>
+        </Grid>
+        <local:MsChart IsStartIndicator="{Binding IsStartIndicator}" StockPrices="{Binding StockPrices}" FinancialFormula="{Binding SelectedFinancialFormula}" 
+                       OutputTable="{Binding OutputTable}" Periods="{Binding Periods}" Grid.Column="3"/>
+    </Grid>
+</UserControl>

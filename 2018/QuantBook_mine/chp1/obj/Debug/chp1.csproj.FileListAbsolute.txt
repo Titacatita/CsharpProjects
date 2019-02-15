@@ -1,0 +1,15 @@
+C:\Users\Dell-PC\source\repos\QuantBook_mine\chp1\bin\Debug\chp1.exe.config
+C:\Users\Dell-PC\source\repos\QuantBook_mine\chp1\bin\Debug\chp1.exe
+C:\Users\Dell-PC\source\repos\QuantBook_mine\chp1\bin\Debug\chp1.pdb
+C:\Users\Dell-PC\source\repos\QuantBook_mine\chp1\obj\Debug\chp1.csprojAssemblyReference.cache
+C:\Users\Dell-PC\source\repos\QuantBook_mine\chp1\obj\Debug\MainWindow.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook_mine\chp1\obj\Debug\App.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook_mine\chp1\obj\Debug\chp1_MarkupCompile.cache
+C:\Users\Dell-PC\source\repos\QuantBook_mine\chp1\obj\Debug\chp1_MarkupCompile.lref
+C:\Users\Dell-PC\source\repos\QuantBook_mine\chp1\obj\Debug\MainWindow.baml
+C:\Users\Dell-PC\source\repos\QuantBook_mine\chp1\obj\Debug\chp1.g.resources
+C:\Users\Dell-PC\source\repos\QuantBook_mine\chp1\obj\Debug\chp1.Properties.Resources.resources
+C:\Users\Dell-PC\source\repos\QuantBook_mine\chp1\obj\Debug\chp1.csproj.GenerateResource.cache
+C:\Users\Dell-PC\source\repos\QuantBook_mine\chp1\obj\Debug\chp1.csproj.CoreCompileInputs.cache
+C:\Users\Dell-PC\source\repos\QuantBook_mine\chp1\obj\Debug\chp1.exe
+C:\Users\Dell-PC\source\repos\QuantBook_mine\chp1\obj\Debug\chp1.pdb

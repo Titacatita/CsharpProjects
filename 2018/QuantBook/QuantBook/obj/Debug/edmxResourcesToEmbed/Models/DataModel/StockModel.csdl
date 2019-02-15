@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MyDbModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Price">
+    <Key>
+      <PropertyRef Name="PriceID" />
+    </Key>
+    <Property Name="PriceID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="SymbolID" Type="Int32" Nullable="false" />
+    <Property Name="Date" Type="DateTime" Precision="3" />
+    <Property Name="PriceOpen" Type="Double" />
+    <Property Name="PriceHigh" Type="Double" />
+    <Property Name="PriceLow" Type="Double" />
+    <Property Name="PriceClose" Type="Double" />
+    <Property Name="PriceAdj" Type="Double" />
+    <Property Name="Volume" Type="Double" />
+    <NavigationProperty Name="Symbol" Relationship="Self.FK_Price_Symbol" FromRole="Price" ToRole="Symbol" />
+  </EntityType>
+  <EntityType Name="Symbol">
+    <Key>
+      <PropertyRef Name="SymbolID" />
+    </Key>
+    <Property Name="SymbolID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Ticker" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Region" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Sector" Type="String" MaxLength="150" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Prices" Relationship="Self.FK_Price_Symbol" FromRole="Symbol" ToRole="Price" />
+  </EntityType>
+  <Association Name="FK_Price_Symbol">
+    <End Role="Symbol" Type="Self.Symbol" Multiplicity="1" />
+    <End Role="Price" Type="Self.Price" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Symbol">
+        <PropertyRef Name="SymbolID" />
+      </Principal>
+      <Dependent Role="Price">
+        <PropertyRef Name="SymbolID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="MyDbEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Prices" EntityType="Self.Price" />
+    <EntitySet Name="Symbols" EntityType="Self.Symbol" />
+    <AssociationSet Name="FK_Price_Symbol" Association="Self.FK_Price_Symbol">
+      <End Role="Symbol" EntitySet="Symbols" />
+      <End Role="Price" EntitySet="Prices" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

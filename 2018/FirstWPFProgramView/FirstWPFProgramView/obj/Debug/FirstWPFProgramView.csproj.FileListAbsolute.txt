@@ -1,0 +1,14 @@
+C:\Users\Dell-PC\source\repos\FirstWPFProgramView\FirstWPFProgramView\bin\Debug\FirstWPFProgramView.exe.config
+C:\Users\Dell-PC\source\repos\FirstWPFProgramView\FirstWPFProgramView\bin\Debug\FirstWPFProgramView.exe
+C:\Users\Dell-PC\source\repos\FirstWPFProgramView\FirstWPFProgramView\bin\Debug\FirstWPFProgramView.pdb
+C:\Users\Dell-PC\source\repos\FirstWPFProgramView\FirstWPFProgramView\obj\Debug\MainWindow.g.cs
+C:\Users\Dell-PC\source\repos\FirstWPFProgramView\FirstWPFProgramView\obj\Debug\App.g.cs
+C:\Users\Dell-PC\source\repos\FirstWPFProgramView\FirstWPFProgramView\obj\Debug\FirstWPFProgramView_MarkupCompile.cache
+C:\Users\Dell-PC\source\repos\FirstWPFProgramView\FirstWPFProgramView\obj\Debug\FirstWPFProgramView_MarkupCompile.lref
+C:\Users\Dell-PC\source\repos\FirstWPFProgramView\FirstWPFProgramView\obj\Debug\MainWindow.baml
+C:\Users\Dell-PC\source\repos\FirstWPFProgramView\FirstWPFProgramView\obj\Debug\FirstWPFProgramView.g.resources
+C:\Users\Dell-PC\source\repos\FirstWPFProgramView\FirstWPFProgramView\obj\Debug\FirstWPFProgramView.Properties.Resources.resources
+C:\Users\Dell-PC\source\repos\FirstWPFProgramView\FirstWPFProgramView\obj\Debug\FirstWPFProgramView.csproj.GenerateResource.cache
+C:\Users\Dell-PC\source\repos\FirstWPFProgramView\FirstWPFProgramView\obj\Debug\FirstWPFProgramView.csproj.CoreCompileInputs.cache
+C:\Users\Dell-PC\source\repos\FirstWPFProgramView\FirstWPFProgramView\obj\Debug\FirstWPFProgramView.exe
+C:\Users\Dell-PC\source\repos\FirstWPFProgramView\FirstWPFProgramView\obj\Debug\FirstWPFProgramView.pdb

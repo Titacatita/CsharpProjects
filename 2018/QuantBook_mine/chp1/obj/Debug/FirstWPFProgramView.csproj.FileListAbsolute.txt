@@ -1,0 +1,14 @@
+C:\Users\Dell-PC\source\repos\QuantBook_mine\chp1\bin\Debug\chp1.exe.config
+C:\Users\Dell-PC\source\repos\QuantBook_mine\chp1\bin\Debug\chp1.exe
+C:\Users\Dell-PC\source\repos\QuantBook_mine\chp1\bin\Debug\chp1.pdb
+C:\Users\Dell-PC\source\repos\QuantBook_mine\chp1\obj\Debug\App.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook_mine\chp1\obj\Debug\chp1_MarkupCompile.cache
+C:\Users\Dell-PC\source\repos\QuantBook_mine\chp1\obj\Debug\chp1_MarkupCompile.lref
+C:\Users\Dell-PC\source\repos\QuantBook_mine\chp1\obj\Debug\chp1.g.resources
+C:\Users\Dell-PC\source\repos\QuantBook_mine\chp1\obj\Debug\chp1.Properties.Resources.resources
+C:\Users\Dell-PC\source\repos\QuantBook_mine\chp1\obj\Debug\FirstWPFProgramView.csproj.GenerateResource.cache
+C:\Users\Dell-PC\source\repos\QuantBook_mine\chp1\obj\Debug\FirstWPFProgramView.csproj.CoreCompileInputs.cache
+C:\Users\Dell-PC\source\repos\QuantBook_mine\chp1\obj\Debug\chp1.exe
+C:\Users\Dell-PC\source\repos\QuantBook_mine\chp1\obj\Debug\chp1.pdb
+C:\Users\Dell-PC\source\repos\QuantBook_mine\chp1\obj\Debug\FirstWPFProgramView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook_mine\chp1\obj\Debug\FirstWPFProgramView.baml

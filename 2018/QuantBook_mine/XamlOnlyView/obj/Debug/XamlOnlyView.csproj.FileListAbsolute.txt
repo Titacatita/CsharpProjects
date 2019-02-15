@@ -1,0 +1,14 @@
+C:\Users\Dell-PC\source\repos\QuantBook_mine\XamlOnlyView\obj\Debug\XamlOnlyView.csprojAssemblyReference.cache
+C:\Users\Dell-PC\source\repos\QuantBook_mine\XamlOnlyView\obj\Debug\App.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook_mine\XamlOnlyView\obj\Debug\XamlOnlyView_MarkupCompile.cache
+C:\Users\Dell-PC\source\repos\QuantBook_mine\XamlOnlyView\obj\Debug\MainWindow.baml
+C:\Users\Dell-PC\source\repos\QuantBook_mine\XamlOnlyView\obj\Debug\MainWindow.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook_mine\XamlOnlyView\obj\Debug\XamlOnlyView.g.resources
+C:\Users\Dell-PC\source\repos\QuantBook_mine\XamlOnlyView\obj\Debug\XamlOnlyView.Properties.Resources.resources
+C:\Users\Dell-PC\source\repos\QuantBook_mine\XamlOnlyView\obj\Debug\XamlOnlyView.csproj.GenerateResource.cache
+C:\Users\Dell-PC\source\repos\QuantBook_mine\XamlOnlyView\obj\Debug\XamlOnlyView.csproj.CoreCompileInputs.cache
+C:\Users\Dell-PC\source\repos\QuantBook_mine\XamlOnlyView\bin\Debug\XamlOnlyView.exe.config
+C:\Users\Dell-PC\source\repos\QuantBook_mine\XamlOnlyView\bin\Debug\XamlOnlyView.exe
+C:\Users\Dell-PC\source\repos\QuantBook_mine\XamlOnlyView\bin\Debug\XamlOnlyView.pdb
+C:\Users\Dell-PC\source\repos\QuantBook_mine\XamlOnlyView\obj\Debug\XamlOnlyView.exe
+C:\Users\Dell-PC\source\repos\QuantBook_mine\XamlOnlyView\obj\Debug\XamlOnlyView.pdb

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>OxyPlot.Wpf</id>
+    <version>1.0.0</version>
+    <title>OxyPlot for WPF</title>
+    <authors>Oystein Bjorke</authors>
+    <owners>Oystein Bjorke</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://raw.githubusercontent.com/oxyplot/oxyplot/master/LICENSE</licenseUrl>
+    <projectUrl>http://oxyplot.org/</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/oxyplot/oxyplot/develop/Icons/OxyPlot_128.png</iconUrl>
+    <description>OxyPlot is a plotting library for .NET. This package targets WPF applications.</description>
+    <releaseNotes></releaseNotes>
+    <tags>wpf plotting plot charting chart</tags>
+    <dependencies>
+      <dependency id="OxyPlot.Core" version="[1.0.0]" />
+    </dependencies>
+  </metadata>
+</package>

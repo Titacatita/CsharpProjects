@@ -1,0 +1,48 @@
+﻿<UserControl x:Class="QuantBook.Ch04.GoogleStockView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="400" d:DesignWidth="500">
+    <Grid Margin="10">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel Margin="0 0 10 0">
+            <StackPanel Orientation="Horizontal" Margin="0 10 0 0">
+                <TextBlock Text="Ticker" Width="70"/>
+                <TextBox x:Name="Ticker" Width="100"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="0 5 0 0">
+                <TextBlock Text="Start Date" Width="70"/>
+                <TextBox x:Name="StartDate" Width="100"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="0 5 0 0">
+                <TextBlock Text="End Date" Width="70"/>
+                <TextBox x:Name="EndDate" Width="100"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="0 5 0 0">
+                <TextBlock Text="Data Type" Width="70"/>
+                <ComboBox x:Name="DataType" Width="100"/>
+            </StackPanel>
+            <Button x:Name="StockHist" Content="Stock Hist Data" Width="120" Margin="0 10 0 0"/>
+            <Button x:Name="StockQuotes" Content="Stock Quotes" Width="120" Margin="0 30 0 0"/>
+               
+        </StackPanel>
+        <Grid Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="20"/>
+                <RowDefinition/>
+                <RowDefinition Height="30"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <TextBlock Text="Stock Historical Data:" VerticalAlignment="Bottom" Margin="0 0 0 2"/>
+            <DataGrid x:Name="MyStockHist" ColumnWidth="*" CanUserAddRows="False" FontSize="10" Grid.Row="1"/>
+            <TextBlock Text="Stock Quotes:" VerticalAlignment="Bottom" Grid.Row="2" Margin="0 0 0 2"/>
+            <DataGrid x:Name="MyStockQuotes" ColumnWidth="*" CanUserAddRows="False" Grid.Row="3" FontSize="10"/>
+        </Grid>
+    </Grid>
+</UserControl>

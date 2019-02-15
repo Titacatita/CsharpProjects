@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>shim</id>
+    <version>2.0.1</version>
+    <title>Shim</title>
+    <authors>Anders Gustafsson, Cureos AB</authors>
+    <owners>Anders Gustafsson, Cureos AB</owners>
+    <licenseUrl>https://raw.githubusercontent.com/cureos/shim/master/NuGet/LICENSE.txt</licenseUrl>
+    <projectUrl>https://github.com/cureos/shim</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/cureos/shim/master/NuGet/shim.png</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Shim expands the ability to create Portable Class Libraries from .NET legacy code by providing reduced or dummy implementations of .NET Framework classes that are not represented in PCL.</description>
+    <summary>Shim provides .NET Framework types otherwise missing in PCL.</summary>
+    <releaseNotes>* Fixed issues:
+      #53 Strong name sign UWP project
+      #50 Add methods required by Portable Accord 3.1
+      #49 Support for Universal Windows Platform</releaseNotes>
+    <copyright>(c) 2013-2016 Anders Gustafsson, Cureos AB</copyright>
+    <language>en-US</language>
+    <tags>PCL Shim .NET Windows WP8 WPA81 UWP Xamarin iOS Android</tags>
+  </metadata>
+</package>

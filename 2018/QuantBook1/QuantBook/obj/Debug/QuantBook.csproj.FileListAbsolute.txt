@@ -1,0 +1,17 @@
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\bin\Debug\QuantBook.exe.config
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\bin\Debug\QuantBook.exe
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\bin\Debug\QuantBook.pdb
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\QuantBook.csprojAssemblyReference.cache
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch01\CodeOnlyView.baml
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch01\CodeOnlyView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\App.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\QuantBook_MarkupCompile.cache
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\QuantBook_MarkupCompile.lref
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\QuantBook.g.resources
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\QuantBook.Properties.Resources.resources
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\QuantBook.csproj.GenerateResource.cache
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\QuantBook.csproj.CoreCompileInputs.cache
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\QuantBook.exe
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\QuantBook.pdb
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\mainWindow.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\mainWindow.baml

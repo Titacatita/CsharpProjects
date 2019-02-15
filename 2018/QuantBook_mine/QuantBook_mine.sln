@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstWPFProgramView", "chp1\FirstWPFProgramView.csproj", "{F3982478-A58D-40B7-8265-20EE0EEBCEEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeOnlyView", "CodeOnlyView\CodeOnlyView.csproj", "{CCC90BCD-F43F-4752-A926-9DD0B605B578}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamlOnlyView", "XamlOnlyView\XamlOnlyView.csproj", "{6037363A-C609-42AA-BDA8-5B0C045D1A40}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ch01", "Ch01", "{E313B53E-5C1A-4ECE-9A99-29BBF39F060B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ch02", "Ch02", "{7CB1EF31-D33F-489C-B115-7DFF2F60B379}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuantBook_v1", "QuantBook_v1\QuantBook_v1.csproj", "{12D0E631-F867-4A57-BFC1-5BA98EF6E04F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3982478-A58D-40B7-8265-20EE0EEBCEEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3982478-A58D-40B7-8265-20EE0EEBCEEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3982478-A58D-40B7-8265-20EE0EEBCEEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3982478-A58D-40B7-8265-20EE0EEBCEEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCC90BCD-F43F-4752-A926-9DD0B605B578}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCC90BCD-F43F-4752-A926-9DD0B605B578}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCC90BCD-F43F-4752-A926-9DD0B605B578}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCC90BCD-F43F-4752-A926-9DD0B605B578}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6037363A-C609-42AA-BDA8-5B0C045D1A40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6037363A-C609-42AA-BDA8-5B0C045D1A40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6037363A-C609-42AA-BDA8-5B0C045D1A40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6037363A-C609-42AA-BDA8-5B0C045D1A40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12D0E631-F867-4A57-BFC1-5BA98EF6E04F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12D0E631-F867-4A57-BFC1-5BA98EF6E04F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12D0E631-F867-4A57-BFC1-5BA98EF6E04F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12D0E631-F867-4A57-BFC1-5BA98EF6E04F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F3982478-A58D-40B7-8265-20EE0EEBCEEB} = {E313B53E-5C1A-4ECE-9A99-29BBF39F060B}
+		{CCC90BCD-F43F-4752-A926-9DD0B605B578} = {E313B53E-5C1A-4ECE-9A99-29BBF39F060B}
+		{6037363A-C609-42AA-BDA8-5B0C045D1A40} = {E313B53E-5C1A-4ECE-9A99-29BBF39F060B}
+		{12D0E631-F867-4A57-BFC1-5BA98EF6E04F} = {7CB1EF31-D33F-489C-B115-7DFF2F60B379}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60F0B6C2-3CE7-40B1-9DF3-07BAAAF766BD}
+	EndGlobalSection
+EndGlobal

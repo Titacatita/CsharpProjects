@@ -1,0 +1,9 @@
+C:\Users\Dell-PC\source\repos\2019\Feb\Chapter03\Chapter02\obj\Debug\App.g.cs
+C:\Users\Dell-PC\source\repos\2019\Feb\Chapter03\Chapter02\obj\Debug\Chapter02_MarkupCompile.cache
+C:\Users\Dell-PC\source\repos\2019\Feb\Chapter03\Chapter02\obj\Debug\Chapter02.csprojAssemblyReference.cache
+C:\Users\Dell-PC\source\repos\2019\Feb\Chapter03\Chapter02\obj\Debug\MainWindow.baml
+C:\Users\Dell-PC\source\repos\2019\Feb\Chapter03\Chapter02\obj\Debug\MainWindow.g.cs
+C:\Users\Dell-PC\source\repos\2019\Feb\Chapter03\Chapter02\obj\Debug\Chapter02.g.resources
+C:\Users\Dell-PC\source\repos\2019\Feb\Chapter03\Chapter02\obj\Debug\Chapter02.Properties.Resources.resources
+C:\Users\Dell-PC\source\repos\2019\Feb\Chapter03\Chapter02\obj\Debug\Chapter02.csproj.GenerateResource.cache
+C:\Users\Dell-PC\source\repos\2019\Feb\Chapter03\Chapter02\obj\Debug\Chapter02.csproj.CoreCompileInputs.cache

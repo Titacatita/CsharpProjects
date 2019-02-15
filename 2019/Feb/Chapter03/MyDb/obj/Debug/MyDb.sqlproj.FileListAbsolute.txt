@@ -1,0 +1,5 @@
+C:\Users\Dell-PC\source\repos\2019\Feb\Chapter03\MyDb\bin\Debug\MyDb.dacpac
+C:\Users\Dell-PC\source\repos\2019\Feb\Chapter03\MyDb\bin\Debug\MyDb.dll
+C:\Users\Dell-PC\source\repos\2019\Feb\Chapter03\MyDb\bin\Debug\MyDb.pdb
+C:\Users\Dell-PC\source\repos\2019\Feb\Chapter03\MyDb\obj\Debug\MyDb.dll
+C:\Users\Dell-PC\source\repos\2019\Feb\Chapter03\MyDb\obj\Debug\MyDb.pdb

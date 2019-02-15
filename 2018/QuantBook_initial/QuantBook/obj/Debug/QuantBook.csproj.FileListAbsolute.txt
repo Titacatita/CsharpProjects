@@ -1,0 +1,949 @@
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\bin\Debug\QuantBook.exe.config
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\bin\Debug\QuantBook.exe
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\bin\Debug\QuantBook.pdb
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\bin\Debug\Caliburn.Micro.dll
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\bin\Debug\Caliburn.Micro.Platform.dll
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\bin\Debug\System.Windows.Interactivity.dll
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\bin\Debug\Caliburn.Micro.xml
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\bin\Debug\Caliburn.Micro.Platform.xml
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\bin\Debug\de\System.Windows.Interactivity.resources.dll
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\bin\Debug\en\System.Windows.Interactivity.resources.dll
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\bin\Debug\es\System.Windows.Interactivity.resources.dll
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\bin\Debug\it\System.Windows.Interactivity.resources.dll
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\QuantBook.csprojResolveAssemblyReference.cache
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\MainView.baml
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\MainView.g.cs
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\App.g.cs
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\QuantBook_MarkupCompile.cache
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\QuantBook_MarkupCompile.lref
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\App.baml
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\QuantBook.g.resources
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\QuantBook.Properties.Resources.resources
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\QuantBook.csproj.GenerateResource.Cache
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\QuantBook.exe
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\QuantBook.pdb
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch01\CodeOnlyView.baml
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch01\FirstWpfProgramView.baml
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch01\XamlOnlyView.baml
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch01\CodeOnlyView.g.cs
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch01\FirstWpfProgramView.g.cs
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch01\XamlOnlyView.g.cs
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch02\CollectionView.baml
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch02\CommunicationView.baml
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch02\NamingView.baml
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch02\RightWayView.baml
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch02\WrongWayView.baml
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch02\CollectionView.g.cs
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch02\CommunicationView.g.cs
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch02\NamingView.g.cs
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch02\RightWayView.g.cs
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch02\WrongWayView.g.cs
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch02\RightWay2View.baml
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch02\RightWay2View.g.cs
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\bin\Debug\EntityFramework.dll
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\bin\Debug\EntityFramework.SqlServer.dll
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\bin\Debug\EntityFramework.xml
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\bin\Debug\EntityFramework.SqlServer.xml
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch03\CustomerView.baml
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch03\CustomerView.g.cs
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch03\AggregateView.baml
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch03\AggregateView.g.cs
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\bin\Debug\BEmu_csh.dll
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch04\BloombergView.baml
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch04\GoogleOptionView.baml
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch04\GoogleStockView.baml
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch04\YahooStockView.baml
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch04\BloombergView.g.cs
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch04\GoogleOptionView.g.cs
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch04\GoogleStockView.g.cs
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch04\YahooStockView.g.cs
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch04\IsdaView.baml
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch04\IsdaView.g.cs
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\bin\Debug\QLNet.dll
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Models\ChartModel\MsChart.baml
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Models\ChartModel\MsChart.g.cs
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\bin\Debug\QuandlCS.dll
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch04\AddTickersView.baml
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch04\AddTickersView.g.cs
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch04\AddPricesView.baml
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch04\AddPricesView.g.cs
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch04\QuandlView.baml
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch04\QuandlView.g.cs
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\bin\Debug\Chart3DControl.dll
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\bin\Debug\ChartControl.dll
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\bin\Debug\Chart3DControl.pdb
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\bin\Debug\ChartControl.pdb
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch05\MySimpleLineView.baml
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch05\MySimpleLineView.g.cs
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch05\MyMultiLinesView.baml
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch05\MyMultiLinesView.g.cs
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch05\My2YView.baml
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch05\My2YView.g.cs
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch05\MyStockChartView.baml
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch05\MyStockChartView.g.cs
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch05\My3DLineView.baml
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch05\My3DLineView.g.cs
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch05\My3DSurfaceView.baml
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch05\My3DSurfaceView.g.cs
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch05\My3DSpecializedView.baml
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch05\My3DSpecializedView.g.cs
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch05\MsSimpleChartsView.g.cs
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch05\MsSimpleChartsView.baml
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch05\MsStockChartView.g.cs
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch05\MsStockChartView.baml
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch05\MsRealtimeView.g.cs
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch05\MsRealtimeView.baml
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch09\BarrierOptionView.baml
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch09\BlackScholesView.baml
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch09\QlAmericanOptionView.baml
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch09\QlBarrierOptionView.baml
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch10\DateView.baml
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch09\BarrierOptionView.g.cs
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch09\BlackScholesView.g.cs
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch09\QlAmericanOptionView.g.cs
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch09\QlBarrierOptionView.g.cs
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch10\DateView.g.cs
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch06\SimpleLinearRegressionView.baml
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch06\SimpleLinearRegressionView.g.cs
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch06\SimplePcaView.g.cs
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch06\SimplePcaView.baml
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch06\RegressionPcaView.g.cs
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch06\RegressionPcaView.baml
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\bin\Debug\Accord.dll.config
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\bin\Debug\Accord.dll
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\bin\Debug\Accord.Math.dll
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\bin\Debug\Accord.Statistics.dll
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\bin\Debug\Accord.xml
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\bin\Debug\Accord.Math.xml
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\bin\Debug\Accord.Statistics.xml
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch06\MultiRegressionView.g.cs
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\QuantBook_Content.g.cs
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch06\MultiRegressionView.baml
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch06\MultiPcaView.g.cs
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch06\MultiPcaView.baml
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch07\MsIndicatorView.g.cs
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch07\MsIndicatorView.baml
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch09\ImpliedVolView.baml
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch09\ImpliedVolView.g.cs
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch09\AmericanBAWView.baml
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch09\AmericanBAWView.g.cs
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch09\QlEuropeanOptionView.baml
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch09\QlEuropeanOptionView.g.cs
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\bin\Debug\NQuantLib.dll
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch09\QlBermudanOptionView.baml
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch09\QlBermudanOptionView.g.cs
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch09\QlRealWorldOptionView.baml
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch09\QlRealWorldOptionView.g.cs
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch10\SimpleBondView.baml
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch10\SimpleBondView.g.cs
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch10\ZeroCouponView.g.cs
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch10\ZeroCouponView.baml
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch10\BondOptionView.g.cs
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch10\BondOptionView.baml
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch10\CdsView.g.cs
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch10\CdsView.baml
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\bin\Debug\Accord.MachineLearning.dll
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\bin\Debug\Accord.Neuro.dll
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\bin\Debug\Accord.MachineLearning.xml
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\bin\Debug\Accord.Neuro.xml
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch08\KnnView.g.cs
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch08\KnnView.baml
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\bin\Debug\Accord.MachineLearning.GPL.dll
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\bin\Debug\Shim.dll
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\bin\Debug\Accord.pdb
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\bin\Debug\Accord.MachineLearning.pdb
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\bin\Debug\Accord.MachineLearning.GPL.pdb
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\bin\Debug\Accord.MachineLearning.GPL.xml
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\bin\Debug\Accord.Math.pdb
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\bin\Debug\Accord.Statistics.pdb
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\bin\Debug\Shim.pdb
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\bin\Debug\Shim.xml
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch08\SvmView.g.cs
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch08\SvmView.baml
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch08\NNClassificationView.g.cs
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch08\NNClassificationView.baml
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch08\NNRegressionView.g.cs
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch08\NNRegressionView.baml
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch08\NNSimpleView.g.cs
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch08\NNSimpleView.baml
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch11\SingleNameView.g.cs
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch11\SingleNameView.baml
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch11\SingleNameOptimView.g.cs
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch11\SingleNameOptimView.baml
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch11\PairsTradingView.g.cs
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch11\PairsTradingView.baml
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch11\PairsOptimView.g.cs
+G:\Doc\OldData\Books\Quant\code\QuantBook\QuantBook\obj\Debug\Ch11\PairsOptimView.baml
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\bin\Debug\Accord.dll.config
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\bin\Debug\QuantBook.exe.config
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\bin\Debug\QuantBook.exe
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\bin\Debug\QuantBook.pdb
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\bin\Debug\Accord.dll
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\bin\Debug\Accord.MachineLearning.dll
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\bin\Debug\Accord.MachineLearning.GPL.dll
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\bin\Debug\Accord.Math.dll
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\bin\Debug\Accord.Neuro.dll
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\bin\Debug\Accord.Statistics.dll
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\bin\Debug\Caliburn.Micro.dll
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\bin\Debug\EntityFramework.dll
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\bin\Debug\NQuantLib.dll
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\bin\Debug\QLNet.dll
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\bin\Debug\QuandlCS.dll
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\bin\Debug\Shim.dll
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\bin\Debug\Accord.pdb
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\bin\Debug\Accord.xml
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\bin\Debug\Accord.MachineLearning.pdb
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\bin\Debug\Accord.MachineLearning.xml
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\bin\Debug\Accord.MachineLearning.GPL.pdb
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\bin\Debug\Accord.MachineLearning.GPL.xml
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\bin\Debug\Accord.Math.pdb
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\bin\Debug\Accord.Math.xml
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\bin\Debug\Accord.Neuro.xml
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\bin\Debug\Accord.Statistics.pdb
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\bin\Debug\Accord.Statistics.xml
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\bin\Debug\Caliburn.Micro.xml
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\bin\Debug\Chart3DControl.pdb
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\bin\Debug\ChartControl.pdb
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\bin\Debug\EntityFramework.xml
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\bin\Debug\Shim.pdb
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\bin\Debug\Shim.xml
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\QuantBook.csprojResolveAssemblyReference.cache
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch01\CodeOnlyView.baml
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch01\FirstWpfProgramView.baml
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch01\XamlOnlyView.baml
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch02\CollectionView.baml
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch02\CommunicationView.baml
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch02\NamingView.baml
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch02\RightWay2View.baml
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch02\RightWayView.baml
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch02\WrongWayView.baml
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch03\AggregateView.baml
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch04\AddPricesView.baml
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch04\AddTickersView.baml
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch04\BloombergView.baml
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch03\CustomerView.baml
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch04\GoogleOptionView.baml
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch04\GoogleStockView.baml
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch04\IsdaView.baml
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch04\QuandlView.baml
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch04\YahooStockView.baml
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch05\My2YView.baml
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch05\My3DLineView.baml
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch05\My3DSpecializedView.baml
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch05\My3DSurfaceView.baml
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch05\MyMultiLinesView.baml
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch05\MySimpleLineView.baml
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch05\MyStockChartView.baml
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch09\AmericanBAWView.baml
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch09\BarrierOptionView.baml
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch09\QlBermudanOptionView.baml
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch09\BlackScholesView.baml
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch09\ImpliedVolView.baml
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch09\QlAmericanOptionView.baml
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch09\QlBarrierOptionView.baml
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch09\QlEuropeanOptionView.baml
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch09\QlRealWorldOptionView.baml
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch10\DateView.baml
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch10\SimpleBondView.baml
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\MainView.baml
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Models\ChartModel\MsChart.baml
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch01\CodeOnlyView.g.cs
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch01\FirstWpfProgramView.g.cs
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch01\XamlOnlyView.g.cs
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch02\CollectionView.g.cs
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch02\CommunicationView.g.cs
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch02\NamingView.g.cs
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch02\RightWay2View.g.cs
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch02\RightWayView.g.cs
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch02\WrongWayView.g.cs
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch03\AggregateView.g.cs
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch04\AddPricesView.g.cs
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch04\AddTickersView.g.cs
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch04\BloombergView.g.cs
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch03\CustomerView.g.cs
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch04\GoogleOptionView.g.cs
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch04\GoogleStockView.g.cs
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch04\IsdaView.g.cs
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch04\QuandlView.g.cs
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch04\YahooStockView.g.cs
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch05\MsRealtimeView.g.cs
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch05\MsStockChartView.g.cs
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch07\MsIndicatorView.g.cs
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch05\MsSimpleChartsView.g.cs
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch05\My2YView.g.cs
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch05\My3DLineView.g.cs
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch05\My3DSpecializedView.g.cs
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch05\My3DSurfaceView.g.cs
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch05\MyMultiLinesView.g.cs
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch05\MySimpleLineView.g.cs
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch05\MyStockChartView.g.cs
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch06\MultiPcaView.g.cs
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch06\MultiRegressionView.g.cs
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch06\RegressionPcaView.g.cs
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch06\SimpleLinearRegressionView.g.cs
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch06\SimplePcaView.g.cs
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch08\KnnView.g.cs
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch08\NNClassificationView.g.cs
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch08\NNRegressionView.g.cs
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch08\NNSimpleView.g.cs
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch08\SvmView.g.cs
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch09\AmericanBAWView.g.cs
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch09\BarrierOptionView.g.cs
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch09\QlBermudanOptionView.g.cs
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch09\BlackScholesView.g.cs
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch09\ImpliedVolView.g.cs
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch09\QlAmericanOptionView.g.cs
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch09\QlBarrierOptionView.g.cs
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch09\QlEuropeanOptionView.g.cs
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch09\QlRealWorldOptionView.g.cs
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch10\BondOptionView.g.cs
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch10\CdsView.g.cs
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch10\DateView.g.cs
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch10\SimpleBondView.g.cs
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch10\ZeroCouponView.g.cs
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch11\PairsOptimView.g.cs
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch11\PairsTradingView.g.cs
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch11\SingleNameOptimView.g.cs
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch11\SingleNameView.g.cs
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\MainView.g.cs
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Models\ChartModel\MsChart.g.cs
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\App.g.cs
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\QuantBook_Content.g.cs
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\QuantBook_MarkupCompile.cache
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\QuantBook_MarkupCompile.lref
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\App.baml
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch05\MsRealtimeView.baml
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch05\MsStockChartView.baml
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch07\MsIndicatorView.baml
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch05\MsSimpleChartsView.baml
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch06\MultiPcaView.baml
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch06\MultiRegressionView.baml
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch06\RegressionPcaView.baml
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch06\SimpleLinearRegressionView.baml
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch06\SimplePcaView.baml
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch08\KnnView.baml
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch08\NNClassificationView.baml
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch08\NNRegressionView.baml
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch08\NNSimpleView.baml
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch08\SvmView.baml
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch10\BondOptionView.baml
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch10\CdsView.baml
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch10\ZeroCouponView.baml
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch11\PairsOptimView.baml
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch11\PairsTradingView.baml
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch11\SingleNameOptimView.baml
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\Ch11\SingleNameView.baml
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\QuantBook.g.resources
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\QuantBook.Properties.Resources.resources
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\QuantBook.csproj.GenerateResource.Cache
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\QuantBook.exe
+C:\Users\Patricia\Downloads\code_quant\QuantBook\QuantBook\obj\Debug\QuantBook.pdb
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\QuantBook.csprojAssemblyReference.cache
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch01\CodeOnlyView.baml
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch01\FirstWpfProgramView.baml
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch01\XamlOnlyView.baml
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch02\CollectionView.baml
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch02\CommunicationView.baml
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch02\NamingView.baml
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch02\RightWay2View.baml
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch02\RightWayView.baml
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch02\WrongWayView.baml
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch03\AggregateView.baml
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch04\AddPricesView.baml
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch04\AddTickersView.baml
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch04\BloombergView.baml
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch03\CustomerView.baml
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch04\GoogleOptionView.baml
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch04\GoogleStockView.baml
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch04\IsdaView.baml
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch04\QuandlView.baml
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch04\YahooStockView.baml
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch05\My2YView.baml
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch05\My3DLineView.baml
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch05\My3DSpecializedView.baml
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch05\My3DSurfaceView.baml
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch05\MyMultiLinesView.baml
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch05\MySimpleLineView.baml
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch05\MyStockChartView.baml
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch09\AmericanBAWView.baml
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch09\BarrierOptionView.baml
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch09\QlBermudanOptionView.baml
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch09\BlackScholesView.baml
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch09\ImpliedVolView.baml
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch09\QlAmericanOptionView.baml
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch09\QlBarrierOptionView.baml
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch09\QlEuropeanOptionView.baml
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch09\QlRealWorldOptionView.baml
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch10\DateView.baml
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch10\SimpleBondView.baml
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\MainView.baml
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Models\ChartModel\MsChart.baml
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch01\CodeOnlyView.g.cs
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch01\FirstWpfProgramView.g.cs
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch01\XamlOnlyView.g.cs
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch02\CollectionView.g.cs
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch02\CommunicationView.g.cs
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch02\NamingView.g.cs
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch02\RightWay2View.g.cs
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch02\RightWayView.g.cs
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch02\WrongWayView.g.cs
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch03\AggregateView.g.cs
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch04\AddPricesView.g.cs
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch04\AddTickersView.g.cs
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch04\BloombergView.g.cs
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch03\CustomerView.g.cs
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch04\GoogleOptionView.g.cs
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch04\GoogleStockView.g.cs
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch04\IsdaView.g.cs
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch04\QuandlView.g.cs
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch04\YahooStockView.g.cs
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch05\MsRealtimeView.g.cs
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch05\MsStockChartView.g.cs
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch07\MsIndicatorView.g.cs
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch05\MsSimpleChartsView.g.cs
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch05\My2YView.g.cs
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch05\My3DLineView.g.cs
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch05\My3DSpecializedView.g.cs
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch05\My3DSurfaceView.g.cs
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch05\MyMultiLinesView.g.cs
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch05\MySimpleLineView.g.cs
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch05\MyStockChartView.g.cs
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch06\MultiPcaView.g.cs
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch06\MultiRegressionView.g.cs
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch06\RegressionPcaView.g.cs
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch06\SimpleLinearRegressionView.g.cs
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch06\SimplePcaView.g.cs
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch08\KnnView.g.cs
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch08\NNClassificationView.g.cs
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch08\NNRegressionView.g.cs
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch08\NNSimpleView.g.cs
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch08\SvmView.g.cs
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch09\AmericanBAWView.g.cs
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch09\BarrierOptionView.g.cs
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch09\QlBermudanOptionView.g.cs
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch09\BlackScholesView.g.cs
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch09\ImpliedVolView.g.cs
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch09\QlAmericanOptionView.g.cs
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch09\QlBarrierOptionView.g.cs
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch09\QlEuropeanOptionView.g.cs
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch09\QlRealWorldOptionView.g.cs
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch10\BondOptionView.g.cs
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch10\CdsView.g.cs
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch10\DateView.g.cs
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch10\SimpleBondView.g.cs
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch10\ZeroCouponView.g.cs
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch11\PairsOptimView.g.cs
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch11\PairsTradingView.g.cs
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch11\SingleNameOptimView.g.cs
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch11\SingleNameView.g.cs
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\MainView.g.cs
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Models\ChartModel\MsChart.g.cs
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\App.g.cs
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\QuantBook_Content.g.cs
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\QuantBook_MarkupCompile.cache
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\QuantBook_MarkupCompile.lref
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\App.baml
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch05\MsRealtimeView.baml
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch05\MsStockChartView.baml
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch07\MsIndicatorView.baml
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch05\MsSimpleChartsView.baml
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch06\MultiPcaView.baml
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch06\MultiRegressionView.baml
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch06\RegressionPcaView.baml
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch06\SimpleLinearRegressionView.baml
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch06\SimplePcaView.baml
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch08\KnnView.baml
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch08\NNClassificationView.baml
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch08\NNRegressionView.baml
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch08\NNSimpleView.baml
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch08\SvmView.baml
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch10\BondOptionView.baml
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch10\CdsView.baml
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch10\ZeroCouponView.baml
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch11\PairsOptimView.baml
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch11\PairsTradingView.baml
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch11\SingleNameOptimView.baml
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\Ch11\SingleNameView.baml
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\QuantBook.g.resources
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\QuantBook.Properties.Resources.resources
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\QuantBook.csproj.GenerateResource.cache
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\QuantBook.csproj.CoreCompileInputs.cache
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\QuantBook.exe
+C:\Users\Dell-PC\Documents\Visual Studio 2017\QuantBook\QuantBook\obj\Debug\QuantBook.pdb
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\QuantBook.csprojAssemblyReference.cache
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch01\CodeOnlyView.baml
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch01\FirstWpfProgramView.baml
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch01\XamlOnlyView.baml
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch02\CollectionView.baml
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch02\CommunicationView.baml
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch02\NamingView.baml
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch02\RightWay2View.baml
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch02\RightWayView.baml
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch02\WrongWayView.baml
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch03\AggregateView.baml
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch04\AddPricesView.baml
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch04\AddTickersView.baml
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch04\BloombergView.baml
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch03\CustomerView.baml
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch04\GoogleOptionView.baml
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch04\GoogleStockView.baml
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch04\IsdaView.baml
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch04\QuandlView.baml
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch04\YahooStockView.baml
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch05\My2YView.baml
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch05\My3DLineView.baml
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch05\My3DSpecializedView.baml
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch05\My3DSurfaceView.baml
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch05\MyMultiLinesView.baml
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch05\MySimpleLineView.baml
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch05\MyStockChartView.baml
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch09\AmericanBAWView.baml
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch09\BarrierOptionView.baml
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch09\QlBermudanOptionView.baml
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch09\BlackScholesView.baml
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch09\ImpliedVolView.baml
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch09\QlAmericanOptionView.baml
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch09\QlBarrierOptionView.baml
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch09\QlEuropeanOptionView.baml
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch09\QlRealWorldOptionView.baml
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch10\DateView.baml
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch10\SimpleBondView.baml
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\MainView.baml
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Models\ChartModel\MsChart.baml
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch01\CodeOnlyView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch01\FirstWpfProgramView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch01\XamlOnlyView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch02\CollectionView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch02\CommunicationView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch02\NamingView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch02\RightWay2View.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch02\RightWayView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch02\WrongWayView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch03\AggregateView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch04\AddPricesView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch04\AddTickersView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch04\BloombergView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch03\CustomerView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch04\GoogleOptionView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch04\GoogleStockView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch04\IsdaView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch04\QuandlView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch04\YahooStockView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch05\MsRealtimeView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch05\MsStockChartView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch07\MsIndicatorView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch05\MsSimpleChartsView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch05\My2YView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch05\My3DLineView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch05\My3DSpecializedView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch05\My3DSurfaceView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch05\MyMultiLinesView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch05\MySimpleLineView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch05\MyStockChartView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch06\MultiPcaView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch06\MultiRegressionView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch06\RegressionPcaView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch06\SimpleLinearRegressionView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch06\SimplePcaView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch08\KnnView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch08\NNClassificationView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch08\NNRegressionView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch08\NNSimpleView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch08\SvmView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch09\AmericanBAWView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch09\BarrierOptionView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch09\QlBermudanOptionView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch09\BlackScholesView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch09\ImpliedVolView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch09\QlAmericanOptionView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch09\QlBarrierOptionView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch09\QlEuropeanOptionView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch09\QlRealWorldOptionView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch10\BondOptionView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch10\CdsView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch10\DateView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch10\SimpleBondView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch10\ZeroCouponView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch11\PairsOptimView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch11\PairsTradingView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch11\SingleNameOptimView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch11\SingleNameView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\MainView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Models\ChartModel\MsChart.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\App.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\QuantBook_Content.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\QuantBook_MarkupCompile.cache
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\QuantBook_MarkupCompile.lref
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\App.baml
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch05\MsRealtimeView.baml
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch05\MsStockChartView.baml
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch07\MsIndicatorView.baml
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch05\MsSimpleChartsView.baml
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch06\MultiPcaView.baml
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch06\MultiRegressionView.baml
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch06\RegressionPcaView.baml
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch06\SimpleLinearRegressionView.baml
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch06\SimplePcaView.baml
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch08\KnnView.baml
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch08\NNClassificationView.baml
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch08\NNRegressionView.baml
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch08\NNSimpleView.baml
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch08\SvmView.baml
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch10\BondOptionView.baml
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch10\CdsView.baml
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch10\ZeroCouponView.baml
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch11\PairsOptimView.baml
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch11\PairsTradingView.baml
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch11\SingleNameOptimView.baml
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\Ch11\SingleNameView.baml
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\QuantBook.g.resources
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\QuantBook.Properties.Resources.resources
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\QuantBook.csproj.GenerateResource.cache
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\QuantBook.csproj.CoreCompileInputs.cache
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\QuantBook.exe
+C:\Users\Dell-PC\source\repos\QuantBook\QuantBook\obj\Debug\QuantBook.pdb
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\QuantBook.csprojAssemblyReference.cache
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch01\CodeOnlyView.baml
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch01\FirstWpfProgramView.baml
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch01\XamlOnlyView.baml
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch02\CollectionView.baml
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch02\CommunicationView.baml
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch02\NamingView.baml
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch02\RightWay2View.baml
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch02\RightWayView.baml
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch02\WrongWayView.baml
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch03\AggregateView.baml
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch04\AddPricesView.baml
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch04\AddTickersView.baml
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch04\BloombergView.baml
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch03\CustomerView.baml
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch04\GoogleOptionView.baml
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch04\GoogleStockView.baml
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch04\IsdaView.baml
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch04\QuandlView.baml
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch04\YahooStockView.baml
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch05\My2YView.baml
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch05\My3DLineView.baml
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch05\My3DSpecializedView.baml
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch05\My3DSurfaceView.baml
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch05\MyMultiLinesView.baml
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch05\MySimpleLineView.baml
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch05\MyStockChartView.baml
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch09\AmericanBAWView.baml
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch09\BarrierOptionView.baml
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch09\QlBermudanOptionView.baml
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch09\BlackScholesView.baml
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch09\ImpliedVolView.baml
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch09\QlAmericanOptionView.baml
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch09\QlBarrierOptionView.baml
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch09\QlEuropeanOptionView.baml
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch09\QlRealWorldOptionView.baml
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch10\DateView.baml
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch10\SimpleBondView.baml
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\MainView.baml
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Models\ChartModel\MsChart.baml
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch01\CodeOnlyView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch01\FirstWpfProgramView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch01\XamlOnlyView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch02\CollectionView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch02\CommunicationView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch02\NamingView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch02\RightWay2View.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch02\RightWayView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch02\WrongWayView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch03\AggregateView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch04\AddPricesView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch04\AddTickersView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch04\BloombergView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch03\CustomerView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch04\GoogleOptionView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch04\GoogleStockView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch04\IsdaView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch04\QuandlView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch04\YahooStockView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch05\MsRealtimeView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch05\MsStockChartView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch07\MsIndicatorView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch05\MsSimpleChartsView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch05\My2YView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch05\My3DLineView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch05\My3DSpecializedView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch05\My3DSurfaceView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch05\MyMultiLinesView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch05\MySimpleLineView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch05\MyStockChartView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch06\MultiPcaView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch06\MultiRegressionView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch06\RegressionPcaView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch06\SimpleLinearRegressionView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch06\SimplePcaView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch08\KnnView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch08\NNClassificationView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch08\NNRegressionView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch08\NNSimpleView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch08\SvmView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch09\AmericanBAWView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch09\BarrierOptionView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch09\QlBermudanOptionView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch09\BlackScholesView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch09\ImpliedVolView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch09\QlAmericanOptionView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch09\QlBarrierOptionView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch09\QlEuropeanOptionView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch09\QlRealWorldOptionView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch10\BondOptionView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch10\CdsView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch10\DateView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch10\SimpleBondView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch10\ZeroCouponView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch11\PairsOptimView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch11\PairsTradingView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch11\SingleNameOptimView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch11\SingleNameView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\MainView.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Models\ChartModel\MsChart.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\App.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\QuantBook_Content.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\QuantBook_MarkupCompile.cache
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\QuantBook_MarkupCompile.lref
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\QuantBook.exe
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\QuantBook.pdb
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\App.baml
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch05\MsRealtimeView.baml
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch05\MsStockChartView.baml
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch07\MsIndicatorView.baml
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch05\MsSimpleChartsView.baml
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch06\MultiPcaView.baml
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch06\MultiRegressionView.baml
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch06\RegressionPcaView.baml
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch06\SimpleLinearRegressionView.baml
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch06\SimplePcaView.baml
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch08\KnnView.baml
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch08\NNClassificationView.baml
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch08\NNRegressionView.baml
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch08\NNSimpleView.baml
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch08\SvmView.baml
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch10\BondOptionView.baml
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch10\CdsView.baml
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch10\ZeroCouponView.baml
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch11\PairsOptimView.baml
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch11\PairsTradingView.baml
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch11\SingleNameOptimView.baml
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\Ch11\SingleNameView.baml
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\QuantBook.g.resources
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\QuantBook.Properties.Resources.resources
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\QuantBook.csproj.GenerateResource.cache
+C:\Users\Dell-PC\source\repos\QuantBook_initial\QuantBook\obj\Debug\QuantBook.csproj.CoreCompileInputs.cache
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\QuantBook.csprojAssemblyReference.cache
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch01\CodeOnlyView.baml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch01\FirstWpfProgramView.baml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch01\XamlOnlyView.baml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch02\CollectionView.baml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch02\CommunicationView.baml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch02\NamingView.baml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch02\RightWay2View.baml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch02\RightWayView.baml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch02\WrongWayView.baml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch03\AggregateView.baml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch04\AddPricesView.baml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch04\AddTickersView.baml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch04\BloombergView.baml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch03\CustomerView.baml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch04\GoogleOptionView.baml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch04\GoogleStockView.baml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch04\IsdaView.baml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch04\QuandlView.baml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch04\YahooStockView.baml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch05\My2YView.baml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch05\My3DLineView.baml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch05\My3DSpecializedView.baml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch05\My3DSurfaceView.baml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch05\MyMultiLinesView.baml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch05\MySimpleLineView.baml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch05\MyStockChartView.baml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch09\AmericanBAWView.baml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch09\BarrierOptionView.baml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch09\QlBermudanOptionView.baml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch09\BlackScholesView.baml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch09\ImpliedVolView.baml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch09\QlAmericanOptionView.baml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch09\QlBarrierOptionView.baml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch09\QlEuropeanOptionView.baml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch09\QlRealWorldOptionView.baml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch10\DateView.baml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch10\SimpleBondView.baml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\MainView.baml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Models\ChartModel\MsChart.baml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch01\CodeOnlyView.g.cs
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch01\FirstWpfProgramView.g.cs
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch01\XamlOnlyView.g.cs
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch02\CollectionView.g.cs
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch02\CommunicationView.g.cs
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch02\NamingView.g.cs
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch02\RightWay2View.g.cs
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch02\RightWayView.g.cs
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch02\WrongWayView.g.cs
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch03\AggregateView.g.cs
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch04\AddPricesView.g.cs
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch04\AddTickersView.g.cs
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch04\BloombergView.g.cs
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch03\CustomerView.g.cs
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch04\GoogleOptionView.g.cs
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch04\GoogleStockView.g.cs
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch04\IsdaView.g.cs
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch04\QuandlView.g.cs
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch04\YahooStockView.g.cs
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch05\MsRealtimeView.g.cs
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch05\MsStockChartView.g.cs
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch07\MsIndicatorView.g.cs
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch05\MsSimpleChartsView.g.cs
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch05\My2YView.g.cs
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch05\My3DLineView.g.cs
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch05\My3DSpecializedView.g.cs
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch05\My3DSurfaceView.g.cs
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch05\MyMultiLinesView.g.cs
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch05\MySimpleLineView.g.cs
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch05\MyStockChartView.g.cs
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch06\MultiPcaView.g.cs
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch06\MultiRegressionView.g.cs
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch06\RegressionPcaView.g.cs
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch06\SimpleLinearRegressionView.g.cs
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch06\SimplePcaView.g.cs
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch08\KnnView.g.cs
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch08\NNClassificationView.g.cs
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch08\NNRegressionView.g.cs
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch08\NNSimpleView.g.cs
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch08\SvmView.g.cs
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch09\AmericanBAWView.g.cs
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch09\BarrierOptionView.g.cs
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch09\QlBermudanOptionView.g.cs
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch09\BlackScholesView.g.cs
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch09\ImpliedVolView.g.cs
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch09\QlAmericanOptionView.g.cs
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch09\QlBarrierOptionView.g.cs
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch09\QlEuropeanOptionView.g.cs
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch09\QlRealWorldOptionView.g.cs
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch10\BondOptionView.g.cs
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch10\CdsView.g.cs
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch10\DateView.g.cs
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch10\SimpleBondView.g.cs
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch10\ZeroCouponView.g.cs
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch11\PairsOptimView.g.cs
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch11\PairsTradingView.g.cs
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch11\SingleNameOptimView.g.cs
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch11\SingleNameView.g.cs
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\MainView.g.cs
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Models\ChartModel\MsChart.g.cs
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\App.g.cs
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\QuantBook_Content.g.cs
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\QuantBook_MarkupCompile.cache
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\QuantBook_MarkupCompile.lref
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\bin\Debug\Accord.dll.config
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\bin\Debug\QuantBook.exe.config
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\bin\Debug\QuantBook.exe
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\bin\Debug\QuantBook.pdb
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\bin\Debug\Accord.dll
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\bin\Debug\Accord.Genetic.dll
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\bin\Debug\Accord.MachineLearning.dll
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\bin\Debug\Accord.MachineLearning.GPL.dll
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\bin\Debug\Accord.Math.Core.dll
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\bin\Debug\Accord.Math.dll
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\bin\Debug\Accord.Neuro.dll
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\bin\Debug\Accord.Statistics.dll
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\bin\Debug\Caliburn.Micro.dll
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\bin\Debug\Caliburn.Micro.Platform.Core.dll
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\bin\Debug\DotNetZip.dll
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\bin\Debug\EntityFramework.dll
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\bin\Debug\NQuantLib.dll
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\bin\Debug\OxyPlot.dll
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\bin\Debug\QLNet.dll
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\bin\Debug\QuandlCS.dll
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\bin\Debug\Shim.dll
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\bin\Debug\Accord.pdb
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\bin\Debug\Accord.xml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\bin\Debug\Accord.Genetic.xml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\bin\Debug\Accord.MachineLearning.pdb
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\bin\Debug\Accord.MachineLearning.xml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\bin\Debug\Accord.MachineLearning.GPL.pdb
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\bin\Debug\Accord.MachineLearning.GPL.xml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\bin\Debug\Accord.Math.pdb
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\bin\Debug\Accord.Math.xml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\bin\Debug\Accord.Math.Core.xml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\bin\Debug\Accord.Neuro.xml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\bin\Debug\Accord.Statistics.pdb
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\bin\Debug\Accord.Statistics.xml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\bin\Debug\Caliburn.Micro.xml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\bin\Debug\Caliburn.Micro.Platform.Core.xml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\bin\Debug\Chart3DControl.pdb
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\bin\Debug\ChartControl.pdb
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\bin\Debug\DotNetZip.pdb
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\bin\Debug\DotNetZip.xml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\bin\Debug\EntityFramework.xml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\bin\Debug\OxyPlot.pdb
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\bin\Debug\OxyPlot.xml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\bin\Debug\OxyPlot.Wpf.pdb
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\bin\Debug\Shim.pdb
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\bin\Debug\Shim.xml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\App.baml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch05\MsRealtimeView.baml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch05\MsStockChartView.baml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch07\MsIndicatorView.baml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch05\MsSimpleChartsView.baml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch06\MultiPcaView.baml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch06\MultiRegressionView.baml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch06\RegressionPcaView.baml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch06\SimpleLinearRegressionView.baml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch06\SimplePcaView.baml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch08\KnnView.baml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch08\NNClassificationView.baml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch08\NNRegressionView.baml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch08\NNSimpleView.baml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch08\SvmView.baml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch10\BondOptionView.baml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch10\CdsView.baml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch10\ZeroCouponView.baml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch11\PairsOptimView.baml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch11\PairsTradingView.baml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch11\SingleNameOptimView.baml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\Ch11\SingleNameView.baml
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\QuantBook.g.resources
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\QuantBook.Properties.Resources.resources
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\QuantBook.csproj.GenerateResource.cache
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\QuantBook.csproj.CoreCompileInputs.cache
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\QuantBook.csproj.CopyComplete
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\QuantBook.exe
+C:\Users\Dell-PC\source\repos\2018\QuantBook_initial\QuantBook\obj\Debug\QuantBook.pdb

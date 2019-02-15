@@ -1,0 +1,7 @@
+C:\Users\Dell-PC\source\repos\CSharpTut\CSharpTut\bin\Debug\CSharpTut.exe.config
+C:\Users\Dell-PC\source\repos\CSharpTut\CSharpTut\bin\Debug\CSharpTut.exe
+C:\Users\Dell-PC\source\repos\CSharpTut\CSharpTut\bin\Debug\CSharpTut.pdb
+C:\Users\Dell-PC\source\repos\CSharpTut\CSharpTut\obj\Debug\CSharpTut.csprojAssemblyReference.cache
+C:\Users\Dell-PC\source\repos\CSharpTut\CSharpTut\obj\Debug\CSharpTut.csproj.CoreCompileInputs.cache
+C:\Users\Dell-PC\source\repos\CSharpTut\CSharpTut\obj\Debug\CSharpTut.exe
+C:\Users\Dell-PC\source\repos\CSharpTut\CSharpTut\obj\Debug\CSharpTut.pdb
